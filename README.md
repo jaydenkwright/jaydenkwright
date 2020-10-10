@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a self taught software engineer from New York.
+
 <!--
 **jaydenkwright/jaydenkwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
