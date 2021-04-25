@@ -4,11 +4,11 @@ I am a self taught software engineer from New York.
 
 ### Projects
 
-[Project Planner](https://github.com/jaydenkwright/project-planner) - React with Typescript & Flask, PostgresSQL
+[Code Editor](https://github.com/jaydenkwright/code-editor) - React, Express, TypeScript, PostgreSQL
 
-[Habit Tracker](https://github.com/jaydenkwright/habit-tracker) - MongoDB, Express, React, & Node.js
+[Gif Converter](https://github.com/jaydenkwright/gifconverter) - React, TypeScript, WebAssembly
 
-[Banking Dashboard](https://github.com/jaydenkwright/banking-app) - Plaid API, React, Node, Express, MongoDB
+[Project Planner](https://github.com/jaydenkwright/project-planner) - React, Typescript, Flask, PostgreSQL
 
 
 
