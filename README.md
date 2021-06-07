@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a self taught software engineer from New York.
+I am a self taught developer from New York.
 
 ### Projects
 
