@@ -6,7 +6,7 @@
 
 [Project Planner](https://github.com/jaydenkwright/project-planner) - React, Typescript, Flask, PostgreSQL
 
-[Banking App](https://github.com/jaydenkwright/banking-app) - React, PostgreSQL, Node
+[Banking App](https://github.com/jaydenkwright/banking-app) - React, PostgreSQL, Express, Plaid API
 
 
 
