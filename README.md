@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I am a self taught developer from New York.
-
 ### Projects
 
 [Code Editor](https://github.com/jaydenkwright/code-editor) - React, Express, TypeScript, PostgreSQL
